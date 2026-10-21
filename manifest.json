@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "astropy",
+  "repo": "astropy-integration-testing",
+  "versions": [
+    {
+      "commit": "53cc0065ff4dc8900a3db4446d5249d8ad818452",
+      "parsed_at": "2026-10-21T20:28:18.412370+00:00",
+      "filetree": "filetree/53cc0065ff4dc8900a3db4446d5249d8ad818452.nq.gz",
+      "blobs": [
+        "blob/0c55230d310a413817b32cedc9a11accd282c374.nq.gz",
+        "blob/9f7e2252ea73e44d8395f59d5bc05362358a4607.nq.gz",
+        "blob/7417a4fa28bb804c04c7e0f7d250c29b281372f3.nq.gz",
+        "blob/d581eb97ca5cbcf12d651eb7b4e1e0af237fd45f.nq.gz",
+        "blob/42d44ed051874a6db560c3394279cfe9b73ec82c.nq.gz",
+        "blob/89326bb372d177bf996623f50beb2f8f6fa46fdd.nq.gz",
+        "blob/e79ca220f391f077e7300306c1a702e6b860092b.nq.gz",
+        "blob/4e840617024ca81d8748e2c4bbf56d216c2bfff6.nq.gz",
+        "blob/c765c24e524a5ef9a4caaf41d20ff5698d2bc835.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
