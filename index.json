@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "astropy-integration-testing",
+  "versions": [
+    {
+      "commit": "53cc0065ff4dc8900a3db4446d5249d8ad818452",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:30:10.965467+00:00"
+    }
+  ]
+}
